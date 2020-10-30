@@ -1,0 +1,2 @@
+# MyFirstDemoCore
+DemoProjectDescription
